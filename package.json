@@ -1,7 +1,7 @@
 {
   "name": "youtube",
   "version": "0.1.0",
-  "homepage": "https://sushmitha224.github.io/YouTube-React",
+  "homepage": "https://sushmitha224.github.io/YouTube-React/",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.11.1",
